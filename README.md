@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# necessary commands
+npm install -D tailwindcss@3
+npx tailwindcss init -p
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
